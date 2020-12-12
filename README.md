@@ -5,6 +5,8 @@ This is an iOS App which will let you check the weather of different different c
 ## Description : 
 I have used Swift Programming and API integration from Openweatherapi website which a bit correct . To search the weather of different different location , I have implemented Apples own Framework CORE LOCATION . To organise my Code and UI , it was neccessary to follow some kind of Models , so I have implement in MVC stands for Model View Controller . 
 
+I have Also used some of the Delegates in order to access the internals of text feidld and some of the exptensions to extend my class . Its based on Dark mode and light mode both .
+
 ## Implemenations :
   - Networking 
   - APIs 
