@@ -17,3 +17,5 @@ I have Also used some of the Delegates in order to access the internals of text 
   - Dark Mode Appearance 
   - Extensions and Protocols
   - Delegates 
+
+![alt text](https://github.com/myawesomehub/Weathry/blob/main/Screenshot%202020-12-12%20at%201.33.13%20PM.png)
